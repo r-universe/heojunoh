@@ -5,3 +5,6 @@
 [submodule "RNAmf"]
 	path = RNAmf
 	url = https://github.com/heojunoh/rnamf
+[submodule "dynemu"]
+	path = dynemu
+	url = https://github.com/cran/dynemu
